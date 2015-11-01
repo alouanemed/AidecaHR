@@ -7,7 +7,7 @@
   "main": "",
   "moduleType": [],
   "keywords": [
-    "Hr"
+    "HR"
   ],
   "license": "MIT",
   "homepage": "",
@@ -18,5 +18,10 @@
     "bower_components",
     "test",
     "tests"
-  ]
+  ],
+  "dependencies": {
+    "angular": "1.4.7",
+    "bootstrap": "3.3.5",
+    "jquery": "~2.0.3"
+    }
 }
