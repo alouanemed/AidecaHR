@@ -1,0 +1,22 @@
+{
+  "name": "HrApp",
+  "authors": [
+    "Mohamed Alouane <flahweb@gmail.com>"
+  ],
+  "description": "Hr App personal project",
+  "main": "",
+  "moduleType": [],
+  "keywords": [
+    "Hr"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
