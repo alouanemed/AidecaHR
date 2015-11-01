@@ -1,0 +1,8 @@
+FactoryGirl.define do
+  factory :employee do
+    name 'Lorem Employee'
+    email 'contact@example.com'
+    salary 62000
+    cin 'IC73320'
+  end
+end
